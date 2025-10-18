@@ -1,4 +1,4 @@
-package com.example.aplicaciontareas.interfaz
+package com.example.aplicaciontareas.main.interfaz
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
